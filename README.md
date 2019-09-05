@@ -1,2 +1,3 @@
-# ToothVaders
-A Space Invaders inspired fun game to encourage the responsibility of oral care
+# Team 4, Period 1 #
+
+Snekha Senthilkumar
